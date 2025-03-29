@@ -65,8 +65,7 @@ Contributions are welcome! To contribute:
 This project is licensed under the **MIT License**. Feel free to use and modify it.  
 
 ## Screenshots & Demos  
-- Training history (`training_history.png`)  
-- Sample output (`output_video.mp4`)  
+- Training history ![Image](https://github.com/user-attachments/assets/f79d83e9-e4ba-4359-bef7-219e7712e5cd)   
 
 ---  
 
