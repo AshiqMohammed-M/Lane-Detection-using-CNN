@@ -22,6 +22,7 @@ Follow these steps to set up and run the project:
    ```bash
    git clone 'url of the repository'
    cd lane-detection-cnn
+   cd src
    ```  
 
 2. **Create a Virtual Environment (Optional but Recommended)**  
