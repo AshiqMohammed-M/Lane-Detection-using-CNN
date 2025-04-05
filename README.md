@@ -4,7 +4,7 @@
 This project implements a **Convolutional Neural Network (CNN)** for lane detection in driving scenarios, basically It processes a given video input, detects the lane, and outputs a processed video with marked lane lines. This technology is useful for autonomous vehicles and driver-assistance systems.
 through this project,one can learn how the autonomous cars detects the lane and avoids collision with other vehicles
 
-![Image](https://github.com/user-attachments/assets/19f26417-c41e-4877-941e-3f5ea91d48e0)
+![Image](https://github.com/user-attachments/assets/fbc86c4e-b727-4b34-9ece-a4f0bd8c7bd4)
 
 ## Features ✨  
 - Uses **CNN-based lane detection** for improved accuracy  
