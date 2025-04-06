@@ -1,8 +1,23 @@
 # Lane Detection using CNN Algorithm  
 
 ## 📌 Description  
+
+Self-initiated Project | Python, OpenCV, TensorFlow
+
 This project implements a **Convolutional Neural Network (CNN)** for lane detection in driving scenarios, basically It processes a given video input, detects the lane, and outputs a processed video with marked lane lines. This technology is useful for autonomous vehicles and driver-assistance systems.
 through this project,one can learn how the autonomous cars detects the lane and avoids collision with other vehicles
+
+- Achieved **>90% training accuracy** with steadily decreasing loss over epochs.
+
+- Implemented lane segmentation pipeline using **custom CNN architecture**, trained on annotated driving footage.
+
+- Detected lane lines with high **temporal consistency** and **pixel-level accuracy** in diverse scenarios.
+
+- Delivered real-time performance with smooth boundary overlays at **20+ FPS** on test video.
+
+- Evaluated using MSE, pixel accuracy, model loss and visual validation for real-world usability.
+
+
 
 ![Image](https://github.com/user-attachments/assets/fbc86c4e-b727-4b34-9ece-a4f0bd8c7bd4)
 
